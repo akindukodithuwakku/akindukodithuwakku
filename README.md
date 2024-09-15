@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akindukodithuwakku&label=Profile%20views&color=0e75b6&style=flat" alt="akindukodithuwakku" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akindukodithuwakku" alt="akindukodithuwakku" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [akthefenix.xyz](akthefenix.xyz)
 
 - 📝 I regularly write articles on [https://medium.com/@akindukodithuwakku](https://medium.com/@akindukodithuwakku)
