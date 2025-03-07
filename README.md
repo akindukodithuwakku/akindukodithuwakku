@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akindu Kodithuwakku</h1> <h3 align="center">Cloud | DevOps | Fullstack Developer | BSc (Hons) IT Undergraduate at UOM</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=akindukodithuwakku&label=Profile%20views&color=0e75b6&style=flat" alt="akindukodithuwakku" /> </p>
-👨‍💻 Check out all my projects at akthefenix.xyz
+👨‍💻 Check out all my projects at akindukodithuwakku.com
 📝 I write regularly on Medium
 💬 Feel free to ask me about Python, MERN, DevOps, AWS, Flutter
 📫 Reach me at akindukodithuwakku@gmail.com
