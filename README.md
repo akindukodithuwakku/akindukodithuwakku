@@ -39,7 +39,6 @@
 
 ## 🛠️ Languages & Tools
 
-<p align="center">
   <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40" style="transition: transform 0.3s; margin: 5px;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/></a>
   <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" style="transition: transform 0.3s; margin: 5px;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/></a>
   <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40" style="transition: transform 0.3s; margin: 5px;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/></a>
@@ -70,7 +69,6 @@
   <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" style="transition: transform 0.3s; margin: 5px;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/></a>
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" style="transition: transform 0.3s; margin: 5px;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/></a>
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="transition: transform 0.3s; margin: 5px;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/></a>
-</p>
 
 ---
 
@@ -79,6 +77,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akindukodithuwakku&show_icons=true&theme=radical" alt="GitHub Stats" style="margin: 10px;" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=akindukodithuwakku&theme=radical" alt="GitHub Streak" style="margin: 10px;" />
+</p>
+🌐 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akindukodithuwakku&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
