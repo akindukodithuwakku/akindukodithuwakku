@@ -19,7 +19,7 @@
 
 - 🌐 **Explore my work**: [akindukodithuwakku.com](https://akindukodithuwakku.com)
 - ✍️ **Read my articles**: [Medium](https://medium.com/@akindukodithuwakku)
-- 💬 **Ask me about**: Python, MERN Stack, DevOps, AWS, Flutter
+- 💬 **Ask me about**: Python, MERN Stack, DevOps, AWS, ReactNative, Shell, Linux
 - 📫 **Contact me**: [akindukodithuwakku@gmail.com](mailto:akindukodithuwakku@gmail.com)
 
 ---
